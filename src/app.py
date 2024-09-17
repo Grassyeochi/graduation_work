@@ -15,10 +15,10 @@ model = load_model(model_path)
 
 #db 정보
 connection = {
-    'host' : 'inu-db.cvu6qqeoay36.ap-northeast-2.rds.amazonaws.com',  # 호스트
-    'user' : 'admin',   # 사용자 이름
-    'password' : 'adminpassword',  # 비밀번호
-    'database' : 'inu_building_db',  # 데이터베이스 이름
+    'host' : """Deleted""",  # 호스트
+    'user' : """Deleted""",   # 사용자 이름
+    'password' : """Deleted""",  # 비밀번호
+    'database' : """Deleted""",  # 데이터베이스 이름
     'charset' : 'utf8'
 }
 
