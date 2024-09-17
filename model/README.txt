@@ -1,1 +1,1 @@
-// .h5 file for AI image discrimination process
+// This directory have .h5 file for AI image discrimination process
